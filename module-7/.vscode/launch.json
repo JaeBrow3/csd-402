@@ -1,0 +1,25 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "UseFans",
+            "request": "launch",
+            "mainClass": "UseFans",
+            "projectName": "module-7_64119354"
+        },
+        {
+            "type": "java",
+            "name": "UseFans",
+            "request": "launch",
+            "mainClass": "UseFans",
+            "projectName": "module-7_6c1c3f68"
+        },
+        {
+            "name": "Python: Current File",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${file}",
+            "console": "internalConsole"
+        }
+    ]
+}
