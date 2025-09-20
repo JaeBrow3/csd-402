@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "JamesArrayListTest",
+            "request": "launch",
+            "mainClass": "JamesArrayListTest",
+            "projectName": "module-8_6c1c3f69"
+        },
+        {
+            "name": "Python: Current File",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${file}",
+            "console": "internalConsole"
+        }
+    ]
+}
