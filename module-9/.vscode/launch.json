@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Program1",
+            "request": "launch",
+            "mainClass": "Program1",
+            "projectName": "module-9_6c1c3f6a"
+        },
+        {
+            "name": "Python: Current File",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${file}",
+            "console": "internalConsole"
+        }
+    ]
+}
