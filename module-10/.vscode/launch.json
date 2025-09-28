@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "UseDivision",
+            "request": "launch",
+            "mainClass": "UseDivision",
+            "projectName": "module-10_176bad0e"
+        },
+        {
+            "name": "Python: Current File",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${file}",
+            "console": "internalConsole"
+        }
+    ]
+}
